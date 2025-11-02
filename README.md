@@ -59,6 +59,10 @@ Conclusion:
 To perform all CRED operation(GET/POST/Delete/PUSH) in browser itself by Django rest framework instead of any external tool(postman).
 All backend operation running here for overall orders.
 
+I appreciate your time in reading through my project. Please feel free to connect with me if you’d like to discuss it further!
+
+LinkedIn: Connect with me professionally @ www.linkedin.com/in/praveen-ram-r-979088190
+
 
 
 
