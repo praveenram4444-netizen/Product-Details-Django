@@ -1,8 +1,9 @@
                                                DJANGO Project
 Project Overview:
 To  create/update/delete products list in admin console page itself using DJango rest framework.
-All new users are authenicated by tokens and customizing the user table by instead of username get mail.
-To tack all logs inside Djangoprojects by middleware
+All new users are authenicated by tokens and customizing the user tables for username as email.
+To track all logs inside Djangoprojects by middleware.
+To take backup once product saved by signals.
 Serialize the models and customize the admin page lookup.
 
 User table Customization[accounts/model]
