@@ -50,6 +50,11 @@ Middleware act as pipeline between browser and djangoviews
 Take request(before reach views)and respond(after view) to them
 Whatever action doing inside the project save,delete all action captured as logs stored seperately
 
+[product/urls.py]
+URL:http://127.0.0.1:8000/admin
+All url defined here to navigate.
+Based on this definition only respective view will execute
+
 Conclusion:
 To perform all CRED operation(GET/POST/Delete/PUSH) in browser itself by Django rest framework instead of any external tool(postman).
 All backend operation running here for overall orders.
